@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+input{
+  margin-top: 20px;
+  padding: 10px;
+  width: 250px;
+}
+
+button{
+  height: 39px;
+  background-color: #9C27B0;
+  border: solid 1px #9C27B0;
+  width: 120px;
+  color: #f4b7ff
+}
